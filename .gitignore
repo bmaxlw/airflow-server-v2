@@ -1,0 +1,8 @@
+airflow_venv
+logs
+config
+.vscode
+.env
+**/__pycache__/
+requirements.txt
+docker-compose.yaml
